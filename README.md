@@ -1,6 +1,6 @@
 # sails-demo-angular
 This is a simple demo of the angular frontend that interacts with the sails-demo-api backend repo I built
-
+The backend  can be found at https://github.com/chalettu/sails-demo
 
 Install the required tools: `yo`, `gulp`, `bower`
 ```
