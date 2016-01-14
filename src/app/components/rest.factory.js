@@ -1,7 +1,7 @@
 angular.module('restFactory', [])
     .factory('rest', function($q,$sails,$rootScope,$http,$log,ENV) {
         var factory = {};
-      console.log(ENV);
+
         factory.create=function(params){
             var deferred = $q.defer();
             var config={
